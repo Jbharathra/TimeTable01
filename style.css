@@ -1,0 +1,38 @@
+html,body
+{
+    margin: 0;
+
+}
+.sidebar
+{
+    background:linear-gradient(45deg,yellow,blue);
+    float:left;
+    width:250px;
+    height: 100vh;
+}
+.sidebar a
+{
+    display:block;
+    text-decoration: none;
+    text-align: center;
+    color: aquamarine;
+    font-size: 15px;
+    padding:10px 30px;
+}
+.sidebar a:hover
+{
+    background:linear-gardiant(90deg, yellow,green);
+    border-radius:50px;
+    box-shadow:0 0 5px black;
+}
+.sidebar img
+{
+    height:150px;
+    width: 150px;
+    border:10px solid red;
+    border-radius: 250px;
+    box-shadow: 2px 0 5px black;
+    
+}
+
+    
